@@ -27,6 +27,10 @@ public class AddressBookAnalyser {
 	private static Logger logger = Logger.getLogger(AddressBookAnalyser.class.toString());
 	
 	/**
+	 * ich bin ein test
+	 */
+	
+	/**
 	 * Creates an instance of the class <code>AddressBookAnalyser</code> and 
 	 * begins to discover the solutions to your tasks. 
 	 * <p>
