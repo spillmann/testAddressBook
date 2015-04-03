@@ -25,7 +25,6 @@ import org.apache.log4j.Logger;
 public class AddressBookAnalyser {
 
 	private static Logger logger = Logger.getLogger(AddressBookAnalyser.class.toString());
-//	private String hhhh;
 	
 	/**
 	 * Creates an instance of the class <code>AddressBookAnalyser</code> and 
