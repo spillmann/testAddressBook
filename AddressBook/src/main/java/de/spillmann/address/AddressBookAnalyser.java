@@ -27,7 +27,7 @@ public class AddressBookAnalyser {
 	private static Logger logger = Logger.getLogger(AddressBookAnalyser.class.toString());
 	
 	/**
-	 * ich bin ein test 123
+	 * ich bin ein test 123_4
 	 */
 	
 	/**
