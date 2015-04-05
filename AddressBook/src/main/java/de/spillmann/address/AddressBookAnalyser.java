@@ -27,7 +27,7 @@ public class AddressBookAnalyser {
 	private static Logger logger = Logger.getLogger(AddressBookAnalyser.class.toString());
 	
 	/**
-	 * ich bin ein test 123_4_567_78_99_MS_NixBranch
+	 * ich bin ein test 123_4_567_78_99_MS_NixBranch_ich master
 	 */
 	
 	/**
